@@ -11,7 +11,7 @@
 윈도우는 이곳에서 최신판을 설치한다.  
 윈도우가 아니면 위의 파이썬 홈 페이지에서 다른 OS용으로 설치하면 된다.
 
-http://www.python.org/downloads
+다운로드 : http://www.python.org/downloads
 
 ### **II ) IDE 선택하기**  
 
@@ -23,6 +23,8 @@ http://www.python.org/downloads
 
 ### **III ) 출력해보기**
 
+- Hello World
+
 ~~~ python
-print("Hello World")
+print("Hello world")
 ~~~
