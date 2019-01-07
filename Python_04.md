@@ -25,6 +25,7 @@ for n in range(2, 10):
 
 ~~~ Python
 # 함수 미사용
+
 print("1. 더하기\n2. 빼기\n3. 곱하기\n4. 나누기\n5. 나머지\n6. 나가기")
 
 while True:
