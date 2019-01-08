@@ -62,7 +62,7 @@
 
 5. 아래의 예약어는 변수명으로 사용할 수 없다.
 
-~~~ MD
+~~~ Python
 False    class       finally    is          return
 None     continue    for        lambda      try
 True     def         from       nonlocal    while
